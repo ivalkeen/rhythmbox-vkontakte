@@ -29,11 +29,11 @@ By default it's:
 ~/Music/%A - %T.mp3
 where %A is replaced with artist data of downloaded file and %T - with title.
 You may use these symbols many times, e.g. for per-artist folders:
-~/Music/%A/%T - %A.mp3 
+~/Music/%A/%T - %A.mp3
 
 ===========
 
-Copyright © 2010 Alexey Grunichev 
+Copyright © 2010 Alexey Grunichev
 http://github.com/grunichev/rhythmbox-vkontakte
 
 This program is free software: you can redistribute it and/or modify
